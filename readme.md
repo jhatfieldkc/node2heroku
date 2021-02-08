@@ -1,6 +1,5 @@
 # Cheat Sheet: Deploying Node Apps on Heroku
 
-
 ### Initialize and Deploy
 
 1. In terminal, type `brew install heroku/brew/heroku`
